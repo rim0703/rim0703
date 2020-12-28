@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rim0703's github stats](https://github-readme-stats.vercel.app/api?username=rim0703)]
+![rim0703's github stats](https://github-readme-stats.vercel.app/api?username=rim0703)
 
