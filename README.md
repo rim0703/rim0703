@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![rim0703's github stats](https://github-readme-stats.vercel.app/api?username=rim0703) -->
-<b>1일1커밋!</b>
+<!-- ![rim0703's github stats](https://github-readme-stats.vercel.app/api?username=rim0703) 
+<b>1일1커밋!</b> -->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rim0703)](https://solved.ac/rim0703)
-
