@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 2021/02/19(금) ...전공도 못 듣는데;;
 
+2021/02/20(토) 힘들다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rim0703)](https://solved.ac/rim0703)
